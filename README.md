@@ -1,4 +1,4 @@
-
+![App Screenshot](images/image.png)
 # Note Taker
 
 ## Description
